@@ -1,5 +1,20 @@
 # Changelog
 
+## [19.10.0](https://github.com/olimorris/codecompanion.nvim/compare/v19.9.0...v19.10.0) (2026-04-06)
+
+
+### Features
+
+* **chat:** enable context window management ([#2942](https://github.com/olimorris/codecompanion.nvim/issues/2942)) ([0fcc5aa](https://github.com/olimorris/codecompanion.nvim/commit/0fcc5aab6a6837c5cb9af0eab6e9d06af72478b5))
+* **chat:** show tool approval feedback ([#2984](https://github.com/olimorris/codecompanion.nvim/issues/2984)) ([54af697](https://github.com/olimorris/codecompanion.nvim/commit/54af69718040fca0b152dab831e1bb35cedebf33))
+* **cli:** enable rules for cli interactions ([#2992](https://github.com/olimorris/codecompanion.nvim/issues/2992)) ([9eeea48](https://github.com/olimorris/codecompanion.nvim/commit/9eeea4820a091321b085db2155c6133833bf72b0))
+
+
+### Bug Fixes
+
+* **adapters:** resolve ollama models ([#2981](https://github.com/olimorris/codecompanion.nvim/issues/2981)) ([5143451](https://github.com/olimorris/codecompanion.nvim/commit/5143451945c5f84d8fbd44722d48de2b7378ec63))
+* **chat:** acp model selection ([#2989](https://github.com/olimorris/codecompanion.nvim/issues/2989)) ([b8a0ed1](https://github.com/olimorris/codecompanion.nvim/commit/b8a0ed12978bdbf3d43b12305e5297703836dfb4)), closes [#2986](https://github.com/olimorris/codecompanion.nvim/issues/2986)
+
 ## [19.9.0](https://github.com/olimorris/codecompanion.nvim/compare/v19.8.0...v19.9.0) (2026-04-04)
 
 
